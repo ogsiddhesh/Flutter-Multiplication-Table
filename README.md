@@ -58,3 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 *   Siddhesh Chaube www.siddhesh.site
+
+###This software is licensed under a commercial license.  Please contact siddhesh@siddhesh.site for licensing details.
